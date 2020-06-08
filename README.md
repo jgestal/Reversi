@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-iPad with iOS > 10.
+iPad with iOS >= 10.
 
 ### Installing
 
